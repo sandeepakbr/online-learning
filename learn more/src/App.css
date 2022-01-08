@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+#nav-item{
+  display: flex;
+  background-color: rgb(14, 31, 46);
+  width:100%;
+  height:30%;
+  color: aliceblue;
+  list-style: none;
+}
+#ullist{
+  display: flex;
+  margin-left: 3%;
+  list-style: none;
+  text-underline-position: unset;
+}
+li{
+  display: inline-flex;
+  list-style: none;
+  padding: 10px;
+}
+.side-nav{
+  background-color: rgb(21, 85, 85);
+ width: 20%;
+ height: 600px;
+ margin-top: -600px;
+}
+.footer-div{
+  background-color: #584023;
+  width: 100%;
+  height: 200px;
+ 
+}
+.divforallcomponenttorenderintmiddle{
+  background-color: rgb(226, 198, 198);
+  margin-left: 20%;
+  width:80%;
+  height:600px;
+  text-decoration: #584023;
+}
+
+
+
